@@ -6,14 +6,6 @@
 # Purpose: Pong Game
 # Purpose of this script: Used for compiling, linking, and running the program.
 
-# SYSTEM REQUIREMENTS
-# - A Linux System with BASH shell ( in a terminal window )
-# - The Mono C# Compiler must be installed. 
-#      If the C# compiler isn't installed, type in the command:
-#      "sudo apt-get install mono-complete"
-#      into the terminal window WITHOUT QUOTES.
-# - The source files and the script file must all be in one folder.
-
 # HOW TO EXECUTE THIS PROGRAM
 # In the terminal window, navigate to where this folder resides.
 # Once you are in the directory ".../C#_Pong_Game",
