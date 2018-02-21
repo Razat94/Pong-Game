@@ -1,2 +1,1 @@
-# c_sharp
-Any projects written in C# will be stored here.
+# <img src="Pong-Game/Pong.png" align="left" height="130"/> A C# Pong Game
